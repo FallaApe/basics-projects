@@ -2,6 +2,9 @@
 
 This repository contains a growing collection of simple C projects created as I learn and practice C programming. Each project is focused on one specific concept or use-case, such as file handling, arrays, conditionals, and menu-driven logic.
 
+License: Free to use, modify, and share with credit.
+
+
 ---
 
 ##  Projects Included
