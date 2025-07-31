@@ -33,16 +33,6 @@ More projects will be added as I explore new topics in C.
 
 ---
 
-##  What You’ll Learn
-
-- Basics of C syntax and program structure
-- Input/output handling
-- File operations
-- Menu-driven logic
-- Real-world use cases through small projects
-
----
-
 ## 🛠️ How to Compile & Run
 
 Use a C compiler like GCC:
