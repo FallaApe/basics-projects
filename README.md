@@ -14,6 +14,20 @@ License: Free to use, modify, and share with credit.
 - Uses file handling to save data (`student.txt`).
 - Covers: Loops, Conditionals, `fopen`, `fprintf`, `fscanf`, `fclose`.
 
+### ✅ 2. Student Record Manager (Better Version)
+- Menu-driven program to add and view student details (name, class, percentage).
+- Uses file handling to store data persistently in (`student.txt`).
+- Covers: Loops, Conditionals, `fopen`, `fprintf`, `fscanf`, `fclose`.
+
+####  What's Better in This Version
+| Feature            | Advantage                           |
+|--------------------|-------------------------------------|
+| Data Storage       | Saves data permanently in a file    |
+| Persistence        | Records remain after program exits  |
+| Records Limit      | No limit (depends on file size)     |
+| Extra Option       | Can view stored records anytime     |
+| Practical Use      | Closer to real-world record systems |
+
 
 More projects will be added as I explore new topics in C.
 
