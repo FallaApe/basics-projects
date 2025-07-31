@@ -14,6 +14,11 @@ License: Free to use, modify, and share with credit.
 - Uses file handling to save data (`student.txt`).
 - Covers: Loops, Conditionals, `fopen`, `fprintf`, `fscanf`, `fclose`.
 
+### ✅ 2. Student Record File Manager
+- Menu-driven program to add and view student details (name, class, percentage).
+- Uses file handling to store records persistently in `student.txt`.
+- Covers: Loops, Conditionals, File I/O (`fopen`, `fprintf`, `fscanf`, `fclose`).
+
 More projects will be added as I explore new topics in C.
 
 ---
