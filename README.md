@@ -29,6 +29,11 @@ License: Free to use, modify, and share with credit.
 | Practical Use      | Closer to real-world record systems |
 
 
+### ✅ 3. Gambling Game (Python)
+- Menu-driven program to bet on colors (red or black) with a starting balance.
+- Uses the `random` module to generate a winning color each round.
+- Covers: Loops, Functions, Conditionals, `random.choice`.
+
 More projects will be added as I explore new topics in C.
 
 ---
