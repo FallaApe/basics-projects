@@ -34,6 +34,22 @@ License: Free to use, modify, and share with credit.
 - Uses the `random` module to generate a winning color each round.
 - Covers: Loops, Functions, Conditionals, `random.choice`.
 
+### ✅ 4. PC Components Store (Python)
+- Interactive program to browse and purchase PC components.
+- Features two pages of components with navigation and purchase options.
+- Validates credit card and CVV input.
+- Simulates payment processing with a loading effect.
+- Covers: Loops, Functions, Input Validation, `time.sleep`.
+
+####  Features
+| Feature              | Advantage                              |
+|----------------------|----------------------------------------|
+| Multi-page Catalog   | View two pages of PC components        |
+| Purchase Option      | Buy any component with validation      |
+| Input Validation     | Ensures correct card details           |
+| Payment Simulation   | Realistic loading effect               |
+| Exit Anytime         | User-friendly navigation               |
+
 More projects will be added as I explore new topics in C.
 
 ---
