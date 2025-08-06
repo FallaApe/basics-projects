@@ -9,12 +9,12 @@ License: Free to use, modify, and share with credit.
 
 ##  Projects Included
 
-### ✅ 1. Student Record Manager
+### ✅ 1. Student Record Manager (C)
 - Menu-driven program to add and view student records.
 - Uses file handling to save data (`student.txt`).
 - Covers: Loops, Conditionals, `fopen`, `fprintf`, `fscanf`, `fclose`.
 
-### ✅ 2. Student Record Manager (Better Version)
+### ✅ 2. Student Record Manager (Better Version) (C)
 - Menu-driven program to add and view student details (name, class, percentage).
 - Uses file handling to store data persistently in (`student.txt`).
 - Covers: Loops, Conditionals, `fopen`, `fprintf`, `fscanf`, `fclose`.
