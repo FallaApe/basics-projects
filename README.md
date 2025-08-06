@@ -50,6 +50,19 @@ License: Free to use, modify, and share with credit.
 | Payment Simulation   | Realistic loading effect               |
 | Exit Anytime         | User-friendly navigation               |
 
+
+### ✅ 5. Movie Database Manager (Python)
+- menu-driven program to add, remove, view, and query movies in a mysql database.
+- connects to a `movies` database and performs CRUD (create, read, update, delete) operations.
+- covers: functions, loops, mysql connector, parameterized queries, database transactions.
+
+#### key features
+- add new movie records  
+- remove movies by title  
+- view all stored movies  
+- run custom sql queries  
+- secure database operations using parameterized queries
+
 More projects will be added as I explore new topics in C.
 
 ---
