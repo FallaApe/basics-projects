@@ -63,8 +63,14 @@ License: Free to use, modify, and share with credit.
 - run custom sql queries  
 - secure database operations using parameterized queries
 
-More projects will be added as I explore new topics in C.
 
+### ✅ 6. Gobta Multi-Tool Bot (Python)
+- Menu-driven program that offers a timer, lottery game, and a student record saver.
+- Combines file handling, countdown logic, and random number generation.
+- Covers: Loops, Conditionals, `time.sleep`, `random.randint`, `open`, `input`.
+
+more projects will be added as I explore new topics in C.
+  
 ---
 
 ## 🛠️ How to Compile & Run
