@@ -70,6 +70,23 @@ License: Free to use, modify, and share with credit.
 - Covers: Loops, Conditionals, `time.sleep`, `random.randint`, `open`, `input`.
 
 more projects will be added as I explore new topics in C.
+
+# ✅ 7. Student Database Program (Python)
+
+A **menu-driven program** to create and manage a simple student database.  
+The program allows storing student details in either a **text file** or a **binary file (using pickle)**.  
+ Features
+- Add student details:  
+  - Name  
+  - Class  
+  - Subjects & Marks  
+- Store data in:
+  - **Text File (`txt.txt`)** → saves data in plain text format
+  - **Binary File (`bin.bin`)** → saves data using Python's `pickle` module
+- View all stored records after each entry
+- Menu-driven loop to add multiple students until user exits
+
+
   
 ---
 
